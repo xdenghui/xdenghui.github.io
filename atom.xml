@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-27T17:47:40.127Z</updated>
+  <updated>2017-11-29T12:15:26.015Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>gulp和webpack的区别</title>
+    <link href="http://yoursite.com/2017/11/29/gulp%E5%92%8Cwebpack%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
+    <id>http://yoursite.com/2017/11/29/gulp和webpack的区别/</id>
+    <published>2017-11-29T08:52:25.447Z</published>
+    <updated>2017-11-29T12:15:26.015Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="gulp"><a href="#gulp" class="headerlink" title="gulp"></a>gulp</h2><p>强调的是前端开发的工作流程。主要通过配置一系列的task来对文件的压缩合并、雪碧图、启动server、版本控制</p><h2 id="webpack"><a href="#webpack" class="headerlink" title="webpack"></a>webpack</h2><p>一个前端模块化方案，更侧重模块打包。可以通过loader（加载器）和plugins（插件）对资源进行处理，把网页上几乎所有资源（图片、js、css）打包成一个js文件。</p><h2 id="区别"><a href="#区别" class="headerlink" title="区别"></a>区别</h2><p>gulp严格上讲，模块化不是他强调的东西，他旨在规范前端开发流程。<br>webpack更是明显强调模块化开发，而那些文件压缩合并、预处理等功能，不过是他附带的功能。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;gulp&quot;&gt;&lt;a href=&quot;#gulp&quot; class=&quot;headerlink&quot; title=&quot;gulp&quot;&gt;&lt;/a&gt;gulp&lt;/h2&gt;&lt;p&gt;强调的是前端开发的工作流程。主要通过配置一系列的task来对文件的压缩合并、雪碧图、启动server、版本控制&lt;/p&gt;
+&lt;h
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -51,28 +73,6 @@
       
       
         &lt;h1 id=&quot;我的第一篇文章。test&quot;&gt;&lt;a href=&quot;#我的第一篇文章。test&quot; class=&quot;headerlink&quot; title=&quot;我的第一篇文章。test&quot;&gt;&lt;/a&gt;我的第一篇文章。test&lt;/h1&gt;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>gulp和webpack的区别</title>
-    <link href="http://yoursite.com/2017/11/24/gulp%E5%92%8Cwebpack%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
-    <id>http://yoursite.com/2017/11/24/gulp和webpack的区别/</id>
-    <published>2017-11-24T15:37:21.000Z</published>
-    <updated>2017-11-29T12:12:18.057Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="gulp"><a href="#gulp" class="headerlink" title="gulp"></a>gulp</h2><p>强调的是前端开发的工作流程。主要通过配置一系列的task来对文件的压缩合并、雪碧图、启动server、版本控制</p><h2 id="webpack"><a href="#webpack" class="headerlink" title="webpack"></a>webpack</h2><p>一个前端模块化方案，更侧重模块打包。可以通过loader（加载器）和plugins（插件）对资源进行处理，把网页上几乎所有资源（图片、js、css）打包成一个js文件。</p><h2 id="区别"><a href="#区别" class="headerlink" title="区别"></a>区别</h2><p>gulp严格上讲，模块化不是他强调的东西，他旨在规范前端开发流程。<br>webpack更是明显强调模块化开发，而那些文件压缩合并、预处理等功能，不过是他附带的功能。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;gulp&quot;&gt;&lt;a href=&quot;#gulp&quot; class=&quot;headerlink&quot; title=&quot;gulp&quot;&gt;&lt;/a&gt;gulp&lt;/h2&gt;&lt;p&gt;强调的是前端开发的工作流程。主要通过配置一系列的task来对文件的压缩合并、雪碧图、启动server、版本控制&lt;/p&gt;
-&lt;h
       
     
     </summary>
